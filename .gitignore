@@ -1,0 +1,10 @@
+# Ignore unecessary python files
+env/
+__pycache__
+
+# Ignore unecessary jupyter files
+*.ipynb_checkpoints/
+
+# Ignore some unix temp files
+*~
+\#*\#
