@@ -15,8 +15,7 @@ This repository contains some open-sourced models and simulation results carried
 python3.7 -m venv env
 source env/bin/activate
 pip install --upgrade pip
-pip install -r requirements.txt
-# pip install cadCAD jupyter numpy tabulate pandas plotly
+pip install cadCAD jupyter numpy tabulate pandas plotly
 ```
 
 To start a notebook, run:
