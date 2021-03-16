@@ -26,7 +26,7 @@ jupyter notebook <notebook-name>
 
 E.g.
 ```console
-jupyter notebook zeth-cadCAD-simulation.ipynb
+jupyter notebook zeth/zeth-cadCAD-simulation.ipynb
 ```
 
 **Note:** It is also possible to simply install the [Anaconda Python distribution](https://docs.anaconda.com/anaconda/install/) which comes with most of the necessary python packages.
