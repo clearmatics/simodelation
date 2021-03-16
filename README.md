@@ -15,7 +15,8 @@ This repository contains some open-sourced models and simulation results carried
 python3.7 -m venv env
 source env/bin/activate
 pip install --upgrade pip
-pip install cadCAD jupyter numpy tabulate pandas plotly
+pip install -r requirements.txt
+# pip install cadCAD jupyter numpy tabulate pandas plotly
 ```
 
 To start a notebook, run:
@@ -29,3 +30,5 @@ jupyter notebook zeth-cadCAD-simulation.ipynb
 ```
 
 **Note:** It is also possible to simply install the [Anaconda Python distribution](https://docs.anaconda.com/anaconda/install/) which comes with most of the necessary python packages.
+
+This repository uses cadCAD for modelling and simulations, see [here](https://github.com/cadCAD-org/) for introductory materials.
