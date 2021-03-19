@@ -19,3 +19,4 @@ If you wish to cite this notebook, you may use the following:
 }
 ```
 
+Be aware that the content of the notebook may be changed in subsequent commits. Hence it is worth adding a `note` entry to the citation block above to refer to the access date and the git commit at which the notebook was accessed.
