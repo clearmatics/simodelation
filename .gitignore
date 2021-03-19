@@ -5,6 +5,9 @@ __pycache__
 # Ignore unecessary jupyter files
 *.ipynb_checkpoints/
 
+# Ignore cached simulation data
+zeth/simulation_result.zip
+
 # Ignore some unix temp files
 *~
 \#*\#
